@@ -9,6 +9,6 @@ public final class Config {
     private Config() {
     }
 
-    public static final String YOUTUBE_API_KEY = "AIzaSyAfO63OKDJmCFv4LW3_sRGhhcmVIAHoQag";
+    public static final String YOUTUBE_API_KEY = "Enter Your Api Key";
 
 }
